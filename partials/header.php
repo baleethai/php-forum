@@ -16,7 +16,7 @@
         <img class="me-3 rounded" src="./images/conversation.png" alt="" width="48" height="38">
     </a>
     <div class="lh-1">
-        <h1 class="h6 mb-0 text-white lh-1">ไตรมิตร เว็บบอร์ด</h1>
+        <h1 class="h6 mb-0 text-white lh-1">PHP Forum</h1>
         <small>Since 2021</small>
     </div>
 </div>

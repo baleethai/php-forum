@@ -7,8 +7,8 @@
     <meta name="author" content="Webboard">
 
 
-    <title>Trimitwebboard | หน้าหลัก</title>
-
+    <title>PHP Forum</title>
+    
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/offcanvas-navbar/">
 
     <!-- Bootstrap core CSS -->

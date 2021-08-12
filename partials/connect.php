@@ -1,9 +1,9 @@
 <?php
 
 $servername = "localhost";
-$username = "watboard";
-$password = "watboard";
-$dbname = "watboard";
+$username = "root";
+$password = "";
+$dbname = "php_forum";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
