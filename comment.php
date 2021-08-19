@@ -1,6 +1,5 @@
 <?php
 
-
 if ($_POST) {
 
     $postId = $_POST['post_id'];
