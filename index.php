@@ -21,6 +21,7 @@
             หมวดหมู่
             <a href="./create.php" class="nounderline" style="float: right;"><i class="bi bi-file-earmark-plus"></i> โพสต์ใหม่</a>
         </h6>
+        xx
         <?php
         if ($result->num_rows > 0) {
                 $no = 1;
